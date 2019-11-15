@@ -23,6 +23,7 @@ public class DSUtility<T> {
 	}
 
 	Node<T> first;
+	// to add the item for string
 
 	// to add the item for string
 	public void add(T item) {
